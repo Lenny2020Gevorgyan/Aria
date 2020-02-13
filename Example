@@ -1,0 +1,29 @@
+gurgen1 = 'Hello, Lend'
+lend1 = 'Hello, Gurgen'
+gurgen2 = 'how old are you?'
+lend2 = 20 + 9
+gurgen3 = 'abrakadabra'
+lend3 = 'boooo'
+print(gurgen1)
+print(lend1)
+print(gurgen2)
+print(str(lend2))
+print(gurgen3, gurgen1, sep='+', end='')
+print(lend3)
+goodByePhrase = 'Hasta la vista'
+person = 'baby'
+print(goodByePhrase + ', ' + person + '!')
+answer = gurgen2 + str(lend2) + 'abro' + "?"
+print(answer, end='')
+print(lend3)
+answer1 = '2 + 3 = ' + str(2 + 3)
+print(answer, answer1)
+print(answer + 'AAAAAAA' + answer1 + '!!!!!!!')
+print('a' 'b' 'c' * 2)
+a = int(input())
+b = int(input())
+print(a + b)
+word = 'Bye'
+php = word * 3
+print(php)
+print(a)
